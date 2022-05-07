@@ -1,0 +1,100 @@
+filetype:env intext:"APP_ENV"
+"Declassified and Approved for Release by" filetype: pdf
+inurl:"/Setup/Default.aspx" "mojoPortal"
+intitle:"index.of.virtualbox" -mirror -mirrors -public -ubuntu.com -edu -pub
+ext:adr adr filetype:adr "bookmarks.adr"
+inurl:"/bigdump.php" + intitle:"BigDump ver."
+inurl:/.well-known/security.txt
+inurl:/daten/webyep-log.txt
+inurl:..//drivers/etc/ intitle:index of
+ext:txt {"wallet_address" :", "pool_address" : " ", "pool_password" -git
+intitle:"Powered by Qualys SSL Labs"
+inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:"Log in to FishEye"
+inurl:"?db_backup" | inurl:"dbbackup" -site:github.com "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"
+AndroidManifest ext:xml -github -gitlab -googlesource
+filetype:env intext:AWS_SECRET
+filetype:env intext:mail_host + intext:bluehost
+filetype:gitattributes intext:CHANGELOG.md -site:github.com
+allintitle:restricted filetype:doc site:gov
+intext:cv OR intext:curriculum vitae "passport details" ext:doc -template
+intitle:"This is pdfTeX, Version"
+filetype:xls | xlsx intext:software license site:.gov
+filetype:xls | xlsx intext:cisco -cisco.com site:.gov
+intext:vmware virtual site:.gov filetype:xls | xlsx | doc | pdf
+filetype:txt Administrator:500:
+inurl:"root?originalDomain"
+inurl:"debug/default/view?panel=config"
+"air confirmation" "passenger(s)"
+inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com
+"var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous
+inurl:travis.yml tornado site:github.com
+inurl:nginx.conf nginx site:github.com
+intext:"successfully" intitle:"index of" config | log | logged -stackoverflow
+ext:log intext:"connection" intitle:"index of" -stackoverflow
+employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf
+inurl:lighttpd.conf lighttpd site:github.com
+-site:smarty.net ext:tpl intext:"
+swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"
+intitle:"index of" "config.yml" | "config.xml" intext:login | auth
+intitle:"index of" "config.yml" | "config.xml" intext:login | auth
+intitle:"index of" ".gitignore"
+intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of"
+intitle:"index of" ".travis.yml" | ".travis.xml"
+intitle:"index of" "laravel.log" | "main.yaml" | "server.cfg"
+inurl:login.php.bak
+inurl:elmah.axd intext:"Powered by ELMAH" -inurl:detail
+inurl:conf/tomcat-users.xml -github
+ext:ppk ssh key -github.com -gitlab
+intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen"
+inurl:/wp-content/ai1wm-backups + wpress
+inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
+intext:"define('DB_NAME'," ext:txt
+intext:"class JConfig {" inurl:configuration.php
+intitle:"index of" intext:twr.html
+inurl:/yum.log | intitle:yum.log + ext:log
+/var/www/manage/storage/logs/laravel- ext:log
+inurl:robots.txt intext:Disallow: /web.config
+configuration> + filetype:config -github.com
+inurl:logs/gravityforms
+intext:"please find attached" "login" | password ext:pdf
+intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed
+filetype:txt line vty 0 4
+"[HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSessions]" ext:reg
+ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY=
+intext:"Resource dumped by" intext:jcr -site:adobe.com
+inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx
+filetype:rdp default.rdp
+filetype:txt "License Key"
+intitle:"index of" pagefile.sys
+"site:ghostbin.com " / " "
+"site:hastebin.com " / " "
+inurl:LOG.txt X-System folder
+intext:password "Login Info" filetype:txt
+filetype:txt "Registration Code"
+filetype:pub "ssh-rsa"
+filetype:doc "Answer Key"
+inurl:apspassword
+intext:"Portador do CPF"
+intitle:"index of" hosts.csv | firewalls.csv | linux.csv | windows.csv
+intitle:"index of" users.csv | credentials.csv | accounts.csv
+inurl:scanned & documents intitle:"index of" IT
+inurl:"/cgi-bin/WS_FTP.LOG"
+intitle:"index of" "hiberfil.sys"
+intext:reports filetype:cache
+inurl:pipermail filetype:txt
+inurl:/files/_log/ filetype:log
+inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl
+intext:[To Parent Directory] & ext:sql | ext:cnf | ext:config | ext:log
+ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & 
+"passport" filetype:xls site:"*.edu.*" | site:"*.gov.*" | site:"*.com.*" | site:"*.org.*" | site:"*.net.*" | si
+intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql
+intext:"the WordPress" inurl:wp-config ext:txt
+jmeter.log filetype:log
+"php class JConfig" AND inurl:configuration AND ext:"bak | old | pdf | php | txt"
+"keyed alike" site:gov filetype:pdf
+intext:"config" intitle:"Index of .ssh"
+site:global.gotomeeting.com inurl:recording
+inurl:github.com intext:.ftpconfig -issues
+filetype:inc php -site:github.com -site:sourceforge.net
+s3 site:amazonaws.com filetype:xls login

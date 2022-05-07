@@ -1,0 +1,100 @@
+intitle:"Index of /" intext:"pass.txt"
+inurl:WS_FTP.log
+intext:"Index of" "email.txt"
+intitle:"index of" "pptx"
+intitle:"index of" "ppt.html"
+intitle:"index of" "slides-ppt"
+intitle:"index of" "-XML.pdf "
+intitle:"index of" "XML "
+intitle:"index of" "XML.Xerces "
+intitle:"index of" "infn.it"
+intitle:"index of" "lngs.infn.it "
+intitle:"index of" "extra"
+intitle:"index of" "extranet"
+intitle:"index of" "fsi"
+intitle:"index of" "oxid-esales"
+intitle:"index of" "wp-content"
+intitle:"index of" "css"
+intitle:"index of" "CD.pdf "
+intitle:"index of" "DOCS-TECH "
+intitle:"index of" " Server-Side "
+intitle:"index of" " py-text"
+Google Dork
+Google Dork
+Google Dork
+intitle:"index of" "htdocs"
+intitle:"index of" " unidecode"
+intitle:"index of" " cldr-data"
+intitle:"index of" " gettext"
+intitle:"index of" " src "
+intitle:"index of" " src.hint"
+intitle:"index of" "tar.xz"
+intitle:"index of" "pkgs"
+intitle:"index of" "ftp.riken
+intitle:"index of" "pub"
+intitle:"index of" "cygwin"
+intitle:"index of" "kde-l10n-de"
+intitle:"index of" "txdot"
+intitle:"index of" "mirror.koddos.net"
+intitle:"index of" "Squid-cache"
+intitle:"index of" "-login.php"
+intitle:"index of" "metin"
+intitle:"index of" "html-en"
+intitle:"index of" "html-intro"
+intitle:"index of" "echo-linux"
+intitle:"index of" "filelist.xml"
+intitle:"index of" "master01"
+intext:"password" | "passwd" | "pwd" site:anonfiles.com
+site:*.example.com inurl:(elmah.axd | errorlog.axd) ext:axd
+inurl:errorlog.axd ext:axd
+showing putty logs
+intitle:"index of" "script.js"
+intitle:"index of" "admin-config"
+intitle:"index of" "admin.login.php"
+intitle:"index of" "admin.login.php"
+intitle:"index of" " wp-mail-smtp"
+intitle:"index of" "/resources"
+intext:"index of" "ftp"
+intitle:"index of" "untitled"
+intitle:"index of" "untitled" "wp-content" intext:scanned
+index of :"uploads" "parent" "salary" intext:salary
+index of :wp-config.zip
+intitle:"index of" ".ssh/authorized_keys"
+Intitle:database ext:sql
+index of: "parent directory" "uploads"
+index of: "confidential" "uploads"
+index of: "cache" "uploads"
+index of: "QRcodes" "uploads"
+index of: "contracts" "uploads"
+index of : "phonebook "
+index of : "truecaller" "uploads"
+index of: "license" "upload"
+index of: "certificate" "upload"
+index of: "certificate" "wp-content"
+index of: "application" "upload"
+index of: "application form" "upload"
+index of: "documents" "wp-content"
+intitle:"index of" "_vti_inf.html"
+intitle:"index of" "service.pwd"
+intitle:"index of" "shtml.dll "
+inurl:admin ext:sql
+index of:"password" "wp-content"
+index of: "putty" "uploads"
+index of: "participants" "uploads"
+filetype:txt site:gitlab.* "secret" OR "authtoken"
+site:gitlab.* intext:password intext:@gmail.com | @yahoo.com | @hotmail.com
+inurl: */.env
+intitle:"index of" "/.git/config"
+intitle:"index of" "*/ftp.txt"
+intext:"index of" "user-config"
+intitle:"database" "backup" filetype:sql
+intext:"sitemap" filetype:txt
+intext:pass filetype:txt
+inurl:/package.json
+intitle"index of" "username" "password" filetype: xlsx
+intitle:"Index of /logs/" "nginx"
+intext:"index of" "home_page"
+inurl:/mutillidae/ "Toggle Hints"
+intext:"index of" inurl:/etc/
+inurl:wp-content/uploads/wooccm_uploads
+intitle:"index of" "particle.js"

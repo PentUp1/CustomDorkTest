@@ -1,0 +1,20 @@
+intitle:"index of" "*.yaml"
+site:*.se intitle:"index of"
+site:*.id intitle:"index of" "screenshot*.jpg"
+intitle:"index of" "*.vcf"
+intitle:"index of" "apache.log" | "apache.logs"
+inurl:admin filetype:txt
+inurl:admin filetype:xls site:gov.in
+site:pastebin.com intitle:"cpanel"
+intitle:index of settings.py
+site:postman.com + keyword
+inurl:admin filetype:xlsx site:gov.*
+db_password filetype:env
+inurl: /wp-content/uploads/ inurl:"robots.txt" "Disallow:" filetype:txt
+inurl:admin filetype:xls
+site:gov.* intitle:"index of" *.apk
+site:gov.* intitle:"index of" *.csv
+Fwd: intitle:"Index of /" intext:"resource/"
+Google to wordpress
+Fwd: intitle:"atvise - next generation"
+site:papaly.com + keyword

@@ -1,0 +1,100 @@
+allintext:"Call to undefined function"
+intitle: "Index of ipcam"
+intitle: "index of data clinic"
+intitle:"index of" "mongod.conf"
+intitle:"index of " inurl:".bash_profile "
+intitle:"index of" "config.json"
+intitle:"index of" "docker-compose.yaml"
+inurl:execute-api site:amazonaws.com
+intitle:index of django.config
+intitle:"index of" inurl:gov Juicy Info |GHDB
+intitle: "index of Health Records"
+intitle:"index of" "/api-debug.log"
+site:pastebin.com intext:"-----BEGIN CERTIFICATE-----"
+site:pastebin.com intext:"-----BEGIN RSA PRIVATE KEY-----"
+site:pastebin.com intext:":aad3b435b51404eeaad3b435b51404ee:"
+intitle:"index of" "schema.graphql"
+site:.execute-api.us-east-1.amazonaws.com
+inurl:employee filetype:xls
+ext:xls intext:/etc/passwd | inurl:password
+"index of" intext:wpbdp-csv-exports
+inurl:mil intext:"UNCLASSIFIED/FOUO" ext:pdf
+filetype:log "AUTHTOKEN"
+intitle:"index of" "mysql.yaml"
+site:*/oauth/token
+intitle:"index of" "sftp.json"
+inurl:simplesaml/saml2/idp
+".:/opt/remi/php56/root/usr/share/pear" | ":/opt/remi/php56/root/usr/share/php"
+"boarding pass" site:http://tripadvisor.com
+intitle:index de sshd_config
+site:pastebin.com intext:root: & :0: & ::: | intitle:passwd | shadow
+intitle:"Index of" "Apache/2.4.49"
+intitle: "access log" filetype: txt
+intitle:"index of" "credentials"
+site:pastebin.com intitle:"leak" | "breach" intext:"password" | "pw" | "pwd"
+"Warehouse Management System" Ext:pdf site:.gov
+intitle: "index of" "admin" "/backup"
+intitle: "Library System by YahooBaba"
+inurl:/wp-content/plugins/thecartpress/
+inurl:/wp-content/plugins/mstore-api/
+inurl:/plugins/pie-register/
+filetype:log intext:("apache2" | "htdocs")
+intext:"index of/" "client-1.0-SNAPSHOT"
+intitle:"phpinfo()" inurl:"phpinfo.php"
+intitle:"index of" "passwords" gov
+New Dork
+intitle:"Index of" inurl:data/plugins/
+Google Dork: intitle:"Index of" "Apache/2.4.50"
+site:*/node_modules/ content:"ssh"
+site:*/node_modules/ content:"PEM"
+intitle:"index of" "schema.mysql"
+intitle:"Pi-hole - raspberrypi"
+inurl:"/responsible disclosure"
+intitle:"index of" "console"
+intitle:"index of" "logs"
+index of / inurl:/pki/
+intext:"index of/" "top secret" gov
+inurl:/servicedesk/customer/user/signup
+inurl:wp-content/plugins/easy-wp-smtp
+Re: inurl:"/app/kibana#"
+intext:"adobe coldfusion 8"
+Fwd: intitle:"Authorize application" "Learn more about OAuth"
+inurl:/wp-content/plugins/elementor/
+inurl:/wp-content/plugins/wp-filebase/
+inurl:"app.yaml" intext:"runtime: " ext:yaml
+inurl: https://app.zerocopter.com/rd/
+intitle:index.of conf.mysql
+intext:"password" intitle:"index of"
+inurl:"robots" | "robot" intext:"admin" AND "Disallow" ext:txt
+intitle:"index of" "mongod*"
+intitle:index.of wp.login
+inurl:/wp-content/plugins/simple-forum/admin/
+intitle:index.of /Snowflake /robots.txt
+intitle:"index of" ".env.example"
+intitle:index of cv site:.com
+intext:swagger filetype:log
+intitle:"index of" "server.properties"
+Index of /apidoc/api-web/target/classes/
+intitle:"password reset"
+intitle:index.of /CMS /robots.txt
+intitle:"index of" "server.log"
+intitle:"index of" "/backup/sql"
+site:pastebin.com intext:license key | expiration
+site:pastebin.com intext:username | password | secret_key | token
+intitle:index.of /email /robots.txt
+intitle:index.of /cftp /robots.txt
+allinurl:index.php?page= site:.gov.in
+"inurl:php?id=" site:.gov.bd
+Index of /vendor/spatie/robots-txt
+intitle:"index of" ".private.xml"
+site:pastebin.com intext:"administrator:500:"
+"inurl:php?id=" site:.com
+intitle:"index of" ".ppt"
+site:github.com intext:"unattend xmlns" AND "password" ext:xml
+intitle:"index of" "workspace.xml"
+intitle:"index of" "-qpf"
+intitle:"index of" "-ipk"
+intitle:"index of" "Packages.gz"
+intitle:"index of" "mips32el-nf"
+intitle:"index of" ".phpunit.xml"
+intitle:"index of" " .AndroidManifest.xml"

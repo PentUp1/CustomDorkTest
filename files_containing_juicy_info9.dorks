@@ -1,0 +1,100 @@
+intitle:"index of" "dhparams.pem"
+intitle:"index of" "wpadmin-secure.htaccess"
+intitle:"index of" "privkey.pem"
+intitle:"index of " "users.json"
+intitle:"index of" "userdata.json"
+intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt
+intitle:"index of" "db.log"
+intitle:"index of" "properties.ini"
+ext:sql intext:"-- phpMyAdmin SQL Dump
+intitle:"index of" "var/log/"
+intitle:index of config.asp
+intitle:"index of" "security.php"
+index.of:"pcap" -site:stackoverflow.com -site:github.com
+intitle:"index of" ".config"
+inurl:.drone.yml intext:git config user.email
+intitle:"index of" "adminsubscribeack.txt"
+intitle:"index of" "log.bak"
+inurl:"ReportServer/Pages/ReportViewer.aspx"
+intitle:"index of" "database/config"
+intitle:"index of" "auth_config.php"
+intitle:"index of" "aws-config.php"
+intitle:"index of" "auth.config"
+"index of" "sshd_config"
+"index of" /ftp/logs
+"index of" /private/logs
+allinurl:index.php?db=information_schema
+filetype:sql intext: "sql dump"
+"index of" "user.sqlite"
+intitle:"index of" "wp-admin.zip"
+DORK : intext:"index of" "var/log/"
+"microsoft internet information services" ext:log
+index of "backup.zip"
+inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+"root.log" ext:log
+intitle:"index of" "dev/config"
+index of "logs.zip"
+index of "dbbackup"
+intitle:"index of /" "nginx.conf"
+"Index of" "customer.php"
+intitle:index.of.?.db
+"index of sqlite"
+intext:"index of /" "config.json"
+index of .svn/text-base/index.php.svn-base
+intitle:"index of" admin.tar
+intext:"index of /" "*.yaml"
+"index of" "siri"
+intitle:"index of" secrets.yml
+intitle:"index of /" "*key.pem"
+index of /backend/prod/config
+"Index of" "/access"
+intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+Index of /__MACOSX/System
+intitle:"index of" "id_rsa.pub"
+intitle:"index of" /etc/openvpn/
+intitle:"index of" "*named.root.key"
+intitle:"index of" ./bash_history
+"-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa
+"Index of" "accounts.sql"
+intitle:"index of" "bundle.pem"
+intitle:"Index of /" "joomla/database"
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:html
+intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html
+intitle:"report" ("Fortify" | "Web Inspect") filetype:pdf
+intitle:"index of" exception.log
+allintext:username,password filetype:log
+intext:ISUR_MACHINE IIS -log
+intitle:"index of" jboss-service.xml
+"Reflector Dashboard" inurl:/db/index.php/
+allintext:"API_SECRET*" ext:env | ext:yml
+"index of" "user.MYD"
+ext:log intext:NetworkManager "systemd"
+intext:admin ext:sql inurl:admin
+site:ftp://ftp.*.* ext:sql
+"index of" "callback.php"
+intitle:"index of" "composer.lock"
+'AUTH_SALT' | 'SECURE_AUTH_SALT' | 'LOGGED_IN_SALT' | 'NONCE_SALT' ext:txt | ext:cfg | ext:env | ext:in
+Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin
+intitle:"index of" "phpmyadmin.sql"
+intitle:"index of" "config.db"
+"putty.log" ext:log | ext:cfg | ext:txt
+intitle:"index of" "mysql.log" | "mysql.logs"
+intitle:"Environment Variables" inurl:/cgi-bin/
+"UV9 Error (1.0)"
+allintext:"index of" "oauth-private.key"
+intitle:"PowerMTA" inurl:logs
+"index of" "/home/000~ROOT~000/etc"
+allintext:"Index Of" "cookies.txt"
+ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"
+"* Authentication Unique Keys and Salts" ext:txt | ext:log
+"-- Server version" "-- MySQL Administrator dump 1.4" ext:sql
+site:*gov.* intitle:index.of db
+intitle:"index of" "service-Account-Credentials.json" | "creds.json"
+intitle:"index of" "/.idea"
+intitle:"index of" intext:credentials
+Index of /_vti_pvt +"*.pwd"
+site:gov ext:sql | ext:dbf | ext:mdb
+intitle:"index of" "Clientaccesspolicy.xml"
+"secret_key_base:" ext:exs | ext:txt | ext:env | ext:cfg

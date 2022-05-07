@@ -1,0 +1,100 @@
+inurl:netscape.hst
+-site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp
++"HSTSNR" -"netop.com"
+inurl:getmsg.html intitle:hotmail
+filetype:ora tnsnames
+"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+allinurl:"weblog/referrers"
+"MacHTTP" filetype:log inurl:machttp.log
+ext:ics ics
+ext:plist filetype:plist inurl:bookmarks.plist
+ext:jbf jbf
+inurl:XcCDONTS.asp
+filetype:QBW qbw
+filetype:PS ps
+site:www.mailinator.com inurl:ShowMail.do
+intitle:"curriculum vitae" filetype:doc
+contacts ext:wml
+rdbqds -site:.edu -site:.mil -site:.gov
+inurl:wp-mail.php + "There doesn't seem to be any new mail."
+"not for public release" -.edu -.gov -.mil
+intitle:"Joomla - Web Installer"
+(intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")
+inurl:configuration.php-dist
+inurl:"config.php.new" +vbulletin
+inurl:phpinfo.php
+allinurl:/xampp/security.php
+inurl:app/etc/local.xml
+allinurl:http://www.google.co.in/latitude/apps/badge/api?user=
+filetype:xls + password + inurl:.com
+inurl:sarg inurl:siteuser.html
+site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume
+site:docs.google.com intitle:(cv Or resume OR curriculum vitae)
+site:mediafire.com cv Or resume OR curriculum vitae filetype:pdf OR doc
+site:stashbox.org cv Or resume OR curriculum vitae filetype:pdf OR doc
+inurl:/push/ .pem apns -"push notifications" "bag attributes"
+inurl:server-info intitle:"Server Information" Apache Server Information
+filetype:pem "Microsoft"
++intext:"AWSTATS DATA FILE" filetype:txt
+inurl:"trace.axd" ext:axd "Application Trace"
+inurl:"/includes/config.php"
+intitle:index.of? configuration.php.zip
+filetype:old (define)(DB_USER|DB_PASS|DB_NAME)
+filetype:old (mysql_connect) ()
+Google Dork For Social Security Number ( In Spain and Argentina is D.N.I )
+List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls
+allintext:D.N.I filetype:xls
+intext:"Thank you for your purchase/trial of ALWIL Software products.:"
+filetype:docx Domain Registrar $user $pass
+inurl:.com/configuration.php-dist
+inurl:newsnab/www/ automated.config.php
+runtimevar softwareVersion=
+ext:gnucash
+filetype:ini "This is the default settings file for new PHP installations"
+filetype:php -site:php.net intitle:phpinfo "published by the PHP Group"
+allintext: /iissamples/default/
+inurl:"zendesk.com/attachments/token" site:zendesk.com
+inurl:fluidgalleries/dat/login.dat
+inurl:wp-content/uploads/dump.sql
+intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"
+inurl:~~joomla3.txt filetype:txt
+filetype:txt inurl:wp-config.txt
+filetype:txt inurl:~~Wordpress2.txt
+inurl:github.com intext:sftp-conf.json +intext:/wp-content/
+filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+inurl:config "fetch = +refs/heads/*:refs/remotes/origin/*"
+inurl:/wp-content/uploads/ filetype:sql
+filetype:bak (inurl:php | inurl:asp | inurl:rb)
+inurl:tar filetype:gz
+inurl:"jmx-console/HtmlAdaptor" intitle:Mbean
+filetype:xml inurl:sitemap
+inurl:mikrotik filetype:backup
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github
+inurl:crossdomain filetype:xml intext:allow-access-from
+inurl:clientaccesspolicy filetype:xml intext:allow-from
+("DMZ" | "Public IP" | "Private IP") filetype:xls
+filetype:sql site:com and "insert into" admin "2014"
+intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)
+filetype:log intext:org.apache.hadoop.hdfs
+inurl:"installer-log.txt" intext:"DUPLICATOR INSTALL-LOG"
+inurl:"/server-info" intext:"Loaded Modules"
+filetype:xml inurl:/WEB-INF/ inurl:ftp:// -www
+intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log
+intitle:"index of" "archive.pst" -contrib
+inurl:/dbg-wizard.php
+intitle:"Index of" "mail" "Inbox" "Sent"
+filetype:pcf vpn OR Group
+intitle:"index of" "fic" "ndx"
+"signons.sqlite" intitle:"index of"
+phpMyAdmin SQL Dump
+inurl:access.cnf ext:cnf
+intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt
+inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+intext:"Full path to a .htpasswd file in this dir:" filetype:php
+intext:/homedir/.cpanel-datastore/
+filetype:pac inurl:"/proxy"
+inurl: mil|/issue.php filetype:xls
+inurl:xampp inurl:perlinfo.pl ext:pl
+site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+site:ws.kik.com | site:ws2.kik.com k=
